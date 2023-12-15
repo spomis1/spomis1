@@ -14,7 +14,7 @@
 </div>
 
 <h2> About Me </h2>
-<p> My name is Ramón Fernández and I am a Data Scientist based in Madrid, Spain. I am a very curious person, always in touch with the new technologies. Although I studied Business Management, I found my passion about data studies when I discovered it in the music world.</p>
+<p> My name is Sebastián Pomi and I am a Data Scientist based in Madrid, Spain. I am a very curious person, always in touch with the new technologies. Although I studied Business Management, I found my passion about data studies when I discovered it in the music world.</p>
 <p> I'm a recent graduate of the Data Science Bootcamp in The Bridge. I've always been interested in how data can be used to inform decision-making and tell compelling stories. Throughout my education, I've gained expertise in statistics, programming, and data visualization, and have completed several projects demonstrating my skills in these areas.</p>
 
 <h2> Interests </h2>
