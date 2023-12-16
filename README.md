@@ -55,7 +55,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" title="Google_Colab" **alt="Colab" width="70" height="70"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" title="Jupyter" **alt="Jupyter" width="70" height="70"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" title="Kaggle" **alt="Kaggle" width="70" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" title="Linux" **alt="Linux" width="70" height="70"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="PowerBi" **alt="PowerBi" width="70" height="70"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" title="Tableau" **alt="Tableau" width="70" height="70"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" title="Git" **alt="Git" width="70" height="70"/>
 
 
