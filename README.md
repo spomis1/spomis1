@@ -43,7 +43,7 @@
 
 <h2>:hammer_and_wrench: Languages and Tools</h2>
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" title="Python" **alt="Python" width="70" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" title="Python" **alt="Python" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" title="Numpy" **alt="Numpy" width="70" height="70"/>
   <img src="https://upload.wikimedia.org/wikipedia/en/5/56/Matplotlib_logo.svg" title="Matplotlib"  alt="Matplotlib" width="70" height="70"/>
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" title="Seaborn" **alt="Seaborn" width="70" height="70"/>
@@ -57,7 +57,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" title="Kaggle" **alt="Kaggle" width="70" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="PowerBi" **alt="PowerBi" width="70" height="70"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" title="Tableau" **alt="Tableau" width="70" height="70"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" title="Git" **alt="Git" width="70" height="70"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" title="Git" **alt="Git" width="90" height="70"/>
 
 
 </div>
