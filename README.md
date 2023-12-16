@@ -38,7 +38,7 @@
 <h2>Contact me</h2>
 <div>
   <p>If you have any questions about my work or ideas for collaboration, please don't hesitate to reach out. I'm always open to new opportunities and happy to chat!</p> 
-<a href="mailto:sebastianpomi@gmail.com"><img src="https://img.shields.io/badge/Email-spomis1%40gmail.com-brightgreen?style=for-the-badge"></a>
+<a href="mailto:sebastianpomi@gmail.com"><img src="https://img.shields.io/badge/Email-sebastianpomi%40gmail.com-brightgreen?style=for-the-badge"></a>
 </div>
 
 <h2>:hammer_and_wrench: Languages and Tools</h2>
@@ -49,8 +49,11 @@
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" title="Seaborn" **alt="Seaborn" width="70" height="70"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" title="Pandas" **alt="Pandas" width="70" height="70"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit_Learn" **alt="Scikit_Learn" width="70" height="70"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" title="Jupyter" **alt="Jupyter" width="70" height="70"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" title="SQLite" **alt="SQLite" width="70" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Streamlit-logo-primary-colormark-darktext.png" title="Streamlit" **alt="Streamlit" width="70" height="70"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="Visual_Studio" **alt="Visual_Studio" width="70" height="70"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" title="Google_Colab" **alt="Colab" width="70" height="70"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" title="Jupyter" **alt="Jupyter" width="70" height="70"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" title="Kaggle" **alt="Kaggle" width="70" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" title="Linux" **alt="Linux" width="70" height="70"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" title="Git" **alt="Git" width="70" height="70"/>
