@@ -44,9 +44,10 @@
 <h2>:hammer_and_wrench: Languages and Tools</h2>
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" title="Python" **alt="Python" width="50" height="50"/>
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp; -->
+  <img src="https://upload.wikimedia.org/wikipedia/en/5/56/Matplotlib_logo.svg" title="Matplotlib"  alt="Matplotlib" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" title="Numpy" **alt="Numpy" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" **alt="Pandas" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" title="Pandas" **alt="Pandas" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit_Learn" **alt="Scikit_Learn" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" **alt="Jupyter" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow" **alt="TensorFlow" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" **alt="Kaggle" width="50" height="50"/>
@@ -55,7 +56,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" **alt="Flask" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" **alt="SQLite" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit_Learn" **alt="Scikit_Learn" width="50" height="50"/>
+
 </div>
 
 <!--
