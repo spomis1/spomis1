@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/spomis1/spomis1/blob/main/Hi_there.png" width="800"/>
+  <img src="https://github.com/spomis1/spomis1/blob/main/Hi_there_.png" width="800"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/sebastianpomi/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
