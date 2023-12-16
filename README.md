@@ -10,7 +10,7 @@
 <div id="badges">
   <img src="https://komarev.com/ghpvc/?username=spomis1&style=plastic&color=brightgreen" alt=""/>
 </div>
-  <h2>Welcome to my profile!</h2>
+  <h2>Welcome to my profile! 👋 </h2>
 </div>
 
 <h2> About Me </h2>
@@ -23,7 +23,7 @@
   <li> I have a strong interest in the development of predictive models and algorithms. I enjoy exploring machine learning techniques such as supervised and unsupervised learning, deep learning, and reinforcement learning.</li>
   <li> Due to my business background,.</li>
   <li> I am eager to find a new challenge in Data Analysis and Data Science that helps me grow as a professional.</li>
-  <li> In my spare time I enjoy running 🏃, hanging out with friends 🍽️, but also watching movies 🎬 and reading books 📖.</li>  
+  <li> In my spare time I enjoy running 🏃, hanging out with friends ☕, but also watching movies 🎬 and reading books 📖.</li>  
 </ul>
 
 <h2>Projects</h2>
