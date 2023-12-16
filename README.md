@@ -44,7 +44,7 @@
 <h2>:hammer_and_wrench: Languages and Tools</h2>
 
 <div class="image-row">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" title="Python" **alt="Python" width="50" height="50"/>
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" title="Python" **alt="Python" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" title="Numpy" **alt="Numpy" width="80" height="80"/>
   <img src="https://upload.wikimedia.org/wikipedia/en/5/56/Matplotlib_logo.svg" title="Matplotlib"  alt="Matplotlib" width="80" height="80"/>
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" title="Seaborn" **alt="Seaborn" width="80" height="80"/>
