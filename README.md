@@ -42,6 +42,17 @@
 </div>
 
 <h2>:hammer_and_wrench: Languages and Tools</h2>
+<style>
+  .image-group {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .image-group img {
+    margin: 5px;
+  }
+</style>
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" title="Python" **alt="Python" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" title="Numpy" **alt="Numpy" width="70" height="70"/>
