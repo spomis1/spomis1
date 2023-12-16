@@ -43,21 +43,18 @@
 
 <h2>:hammer_and_wrench: Languages and Tools</h2>
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" title="Python" **alt="Python" width="70" height="70"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" title="Python" **alt="Python" width="70" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" title="Numpy" **alt="Numpy" width="70" height="70"/>
   <img src="https://upload.wikimedia.org/wikipedia/en/5/56/Matplotlib_logo.svg" title="Matplotlib"  alt="Matplotlib" width="70" height="70"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" title="Seaborn" **alt="Seaborn" width="70" height="70"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" title="Pandas" **alt="Pandas" width="70" height="70"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit_Learn" **alt="Scikit_Learn" width="70" height="70"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" title="Flask" **alt="Flask" width="70" height="70"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" title="Jupyter" **alt="Jupyter" width="70" height="70"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" title="SQLite" **alt="SQLite" width="70" height="70"/>
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow" **alt="TensorFlow" width="70" height="70"/> -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" title="Kaggle" **alt="Kaggle" width="70" height="70"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" title="SQLite" **alt="SQLite" width="70" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" title="Kaggle" **alt="Kaggle" width="70" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" title="Linux" **alt="Linux" width="70" height="70"/>
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="Pytest" **alt="Pytest" width="70" height="70"/> -->
-  
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="70" height="70"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" title="Git" **alt="Git" width="70" height="70"/>
+
 
 </div>
 
