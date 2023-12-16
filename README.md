@@ -1,3 +1,15 @@
+<style>
+  .image-row {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px; /* Añade un margen inferior para separar los renglones */
+  }
+
+  .image-row img {
+    margin: 5px;
+  }
+</style>
+
 <div id="header" align="center">
 <!--   <img src="https://github.com/RamonFCerezo/RamonFCerezo/blob/main/RamonFCerezo.png" width="800"/> -->
   <div id="badges">
@@ -42,18 +54,8 @@
 </div>
 
 <h2>:hammer_and_wrench: Languages and Tools</h2>
-<style>
-  .image-group {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-  }
 
-  .image-group img {
-    margin: 5px;
-  }
-</style>
-<div>
+<div class="image-row">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" title="Python" **alt="Python" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" title="Numpy" **alt="Numpy" width="70" height="70"/>
   <img src="https://upload.wikimedia.org/wikipedia/en/5/56/Matplotlib_logo.svg" title="Matplotlib"  alt="Matplotlib" width="70" height="70"/>
@@ -62,15 +64,19 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit_Learn" **alt="Scikit_Learn" width="70" height="70"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" title="SQLite" **alt="SQLite" width="70" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Streamlit-logo-primary-colormark-darktext.png" title="Streamlit" **alt="Streamlit" width="70" height="70"/>
+</div>
+<div class="image-row">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="Visual_Studio" **alt="Visual_Studio" width="70" height="70"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" title="Google_Colab" **alt="Colab" width="70" height="70"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" title="Jupyter" **alt="Jupyter" width="70" height="70"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" title="Kaggle" **alt="Kaggle" width="70" height="60"/>
+</div>
+<div class="image-row">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="PowerBi" **alt="PowerBi" width="60" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" title="Tableau" **alt="Tableau" width="70" height="70"/>
+</div>
+<div class="image-row">  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" title="Kaggle" **alt="Kaggle" width="70" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" title="Git" **alt="Git" width="90" height="50"/>
-
-
 </div>
 
 <!--
