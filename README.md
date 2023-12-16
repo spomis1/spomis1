@@ -7,6 +7,7 @@
 
   .image-row img {
     margin: 5px;
+    background-color: white; 
   }
 </style>
 
@@ -72,7 +73,7 @@
 </div>
 <div class="image-row">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="PowerBi" **alt="PowerBi" width="60" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" title="Tableau" **alt="Tableau" width="70" height="70"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" title="Tableau" **alt="Tableau" width="100" height="70"/>
 </div>
 <div class="image-row">  
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" title="Kaggle" **alt="Kaggle" width="70" height="60"/>
