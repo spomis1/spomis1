@@ -1,16 +1,3 @@
-<style>
-  .image-row {
-    display: flex;
-    justify-content: center;
-    margin-bottom: 20px;
-  }
-
-  .image-row img {
-    margin: 5px;
-    background-color: white;
-  }
-</style>
-
 <div id="header" align="center">
 <!--   <img src="https://github.com/RamonFCerezo/RamonFCerezo/blob/main/RamonFCerezo.png" width="800"/> -->
   <div id="badges">
