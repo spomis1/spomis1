@@ -49,8 +49,8 @@
   <img src="https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" title="Scikit_Learn" **alt="Scikit_Learn"/>
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" title="SQLite" **alt="SQLite" />
   <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" title="Pyplot"  alt="Pyplot"/>
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)" title="Matplotlib"  alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-0078D7?style=for-the-badge&logo=Seabonr&logoColor=white)" title="Seaborn" **alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" title="Matplotlib"  alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/SEABORN-07405E?style=for-the-badge&logo=seaborn&logoColor=white" title="Seaborn" **alt="Seaborn" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white" title="Streamlit" **alt="Streamlit" />
 </div>
 <div class="image-row">
