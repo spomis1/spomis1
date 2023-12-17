@@ -17,7 +17,7 @@
 <p> My name is Sebastián Pomi and I am a Data Scientist based in Madrid, Spain. I am a very curious person, always in touch with the new technologies. Although I studied Business Management, I found my passion about data studies when I discovered it in the music and entertainment industry.</p>
 <p> I'm a recent graduate of the Data Science Bootcamp in The Bridge. During this program, I acquired proficiency in advanced tools and techniques for data analysis and visualization. My skill set includes data cleaning, data visualization, statistical modeling, Machine Learning, and the utilization of technical tools such as Python, SQL, PowerBI, Tableau and Streamlit. I've always been interested in how data can be used to inform decision-making and tell compelling stories.</p>
 
-<h2> Interests </h2>
+<h2> Interests 😃</h2>
 <ul>
   <li> I find it fascinating to explore and showcase data visually. I enjoy analyzing large datasets, creating interactive dashboards, using visualization libraries and designing informative graphs and charts. </li>
   <li> I have a strong interest in the development of predictive models and algorithms. I enjoy exploring machine learning techniques such as supervised and unsupervised learning, deep learning, and reinforcement learning.</li>
@@ -25,7 +25,7 @@
   <li> In my free time I enjoy running 🏃, hanging out with friends ☕, but also watching movies 🎬 and reading books 📖.</li>  
 </ul>
 
-<h2>Projects</h2>
+<h2>Projects ✨</h2>
 <div>
   <ul>
     <li><a href="https://github.com/spomis1/Music_EDA">EDA - Spotify and Youtube Muisc Analytics</a></li>
@@ -40,7 +40,7 @@
 <a href="mailto:sebastianpomi@gmail.com"><img src="https://img.shields.io/badge/Email-sebastianpomi%40gmail.com-brightgreen?style=for-the-badge"></a>
 </div>
 
-<h2>:hammer_and_wrench: Languages and Tools</h2>
+<h2> Languages and Tools :hammer_and_wrench:</h2>
 
 <div class="image-row">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" title="Python" **alt="Python" />
