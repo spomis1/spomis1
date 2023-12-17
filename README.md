@@ -44,21 +44,21 @@
 
 <div class="image-row">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" title="Python" **alt="Python" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" title="Numpy" **alt="Numpy" width="80" height="80"/>
+  <img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white" title="Numpy" **alt="Numpy" width="80" height="80"/>
+  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" title="Pandas" **alt="Pandas" width="80" height="80"/>
   <img src="https://upload.wikimedia.org/wikipedia/en/5/56/Matplotlib_logo.svg" title="Matplotlib"  alt="Matplotlib" width="80" height="80"/>
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" title="Seaborn" **alt="Seaborn" width="80" height="80"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" title="Pandas" **alt="Pandas" width="80" height="80"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit_Learn" **alt="Scikit_Learn" width="70" height="70"/>
+  <img src="https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" title="Scikit_Learn" **alt="Scikit_Learn" width="70" height="70"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" title="SQLite" **alt="SQLite" width="80" height="80"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Streamlit-logo-primary-colormark-darktext.png" title="Streamlit" **alt="Streamlit" width="80" height="80"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white" title="Streamlit" **alt="Streamlit" width="80" height="80"/>
 </div>
 <div class="image-row">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="Visual_Studio" **alt="Visual_Studio" width="70" height="70"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" title="Google_Colab" **alt="Colab" width="70" height="70"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" title="Jupyter" **alt="Jupyter" width="70" height="70"/>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="Visual_Studio" **alt="Visual_Studio" width="70" height="70"/>
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" title="Google_Colab" **alt="Colab" width="70" height="70"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" title="Jupyter" **alt="Jupyter" width="70" height="70"/>
 </div>
 <div class="image-row">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="PowerBi" **alt="PowerBi" width="60" height="60"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black" title="PowerBi" **alt="PowerBi" width="60" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" title="Tableau" **alt="Tableau" width="100" height="70"/>
 </div>
 <div class="image-row">  
