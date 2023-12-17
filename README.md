@@ -59,7 +59,7 @@
 </div>
 <div class="image-row">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black" title="PowerBi" **alt="PowerBi" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" title="Tableau" **alt="Tableau" width="100" height="70"/>
+  <img src="https://camo.githubusercontent.com/1b1a1740cefbf2af3fa3573461dfaa66f314a9c10671d00293060d455e1659a3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461626c6561752d4539373632373f7374796c653d666f722d7468652d6261646765266c6f676f3d5461626c656175266c6f676f436f6c6f723d7768697465" title="Tableau" **alt="Tableau"/>
 </div>
 <div class="image-row">  
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" title="Kaggle" **alt="Kaggle" width="70" height="60"/>
