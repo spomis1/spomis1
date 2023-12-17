@@ -43,7 +43,7 @@
 <h2> Languages and Tools :hammer_and_wrench:</h2>
 
 <div class="image-row">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" title="Python" **alt="Python" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" title="Python" **alt="Python" />
   <img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white" title="Numpy" **alt="Numpy"/>
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" title="Pandas" **alt="Pandas"/>
   <img src="https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" title="Scikit_Learn" **alt="Scikit_Learn"/>
