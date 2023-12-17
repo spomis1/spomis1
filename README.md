@@ -40,7 +40,7 @@
 <a href="mailto:sebastianpomi@gmail.com"><img src="https://img.shields.io/badge/Email-sebastianpomi%40gmail.com-brightgreen?style=for-the-badge"></a>
 </div>
 
-<h2> Languages and Tools :hammer_and_wrench:</h2>
+<h2> Skills and Tools :hammer_and_wrench:</h2>
 
 <div class="image-row">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" title="Python" **alt="Python" />
