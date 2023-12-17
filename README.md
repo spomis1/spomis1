@@ -46,10 +46,11 @@
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" title="Python" **alt="Python" />
   <img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white" title="Numpy" **alt="Numpy"/>
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" title="Pandas" **alt="Pandas" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/5/56/Matplotlib_logo.svg" title="Matplotlib"  alt="Matplotlib" width="80" height="80"/>
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" title="Seaborn" **alt="Seaborn" width="80" height="80"/>
+  <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" title="Pyplot"  alt="Pyplot"/>
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)" title="Matplotlib"  alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-0078D7?style=for-the-badge&logo=Seabonr&logoColor=white)" title="Seaborn" **alt="Seaborn" />
   <img src="https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" title="Scikit_Learn" **alt="Scikit_Learn"/>
-  <img src="https://camo.githubusercontent.com/932123bf240349f3785c02228b113b06299079e8740f480c767e8335fd6d752a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c6974652d3037343035453f7374796c653d666f722d7468652d6261646765266c6f676f3d73716c697465266c6f676f436f6c6f723d7768697465" title="SQLite" **alt="SQLite" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" title="SQLite" **alt="SQLite" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white" title="Streamlit" **alt="Streamlit" />
 </div>
 <div class="image-row">
@@ -59,9 +60,9 @@
 </div>
 <div class="image-row">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black" title="PowerBi" **alt="PowerBi" />
-  <img src="https://camo.githubusercontent.com/1b1a1740cefbf2af3fa3573461dfaa66f314a9c10671d00293060d455e1659a3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461626c6561752d4539373632373f7374796c653d666f722d7468652d6261646765266c6f676f3d5461626c656175266c6f676f436f6c6f723d7768697465" title="Tableau" **alt="Tableau"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" title="Tableau" **alt="Tableau"/>
 </div>
 <div class="image-row">  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" title="Kaggle" **alt="Kaggle" width="70" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" title="Git" **alt="Git" width="90" height="50"/>
+  <img src="(https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" title="Kaggle" **alt="Kaggle"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)" title="Git" **alt="Git" />
 </div>
