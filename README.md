@@ -51,7 +51,6 @@
   <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" title="Pyplot"  alt="Pyplot"/>
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" title="Matplotlib"  alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/SEABORN-07405E?style=for-the-badge&logo=seaborn&logoColor=white" title="Seaborn" **alt="Seaborn" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white" title="Streamlit" **alt="Streamlit" />
 </div>
 <div class="image-row">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="Visual_Studio" **alt="Visual_Studio"/>
@@ -61,6 +60,7 @@
 <div class="image-row">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black" title="PowerBi" **alt="PowerBi" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" title="Tableau" **alt="Tableau"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white" title="Streamlit" **alt="Streamlit" />
 </div>
 <div class="image-row">  
   <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" title="Kaggle" **alt="Kaggle"/>
