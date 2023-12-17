@@ -64,5 +64,5 @@
 </div>
 <div class="image-row">  
   <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" title="Kaggle" **alt="Kaggle"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)" title="Git" **alt="Git" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" title="Git" **alt="Git" />
 </div>
