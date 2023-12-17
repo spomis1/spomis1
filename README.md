@@ -44,13 +44,13 @@
 
 <div class="image-row">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" title="Python" **alt="Python" />
-  <img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white" title="Numpy" **alt="Numpy" width="80" height="80"/>
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" title="Pandas" **alt="Pandas" width="80" height="80"/>
+  <img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white" title="Numpy" **alt="Numpy"/>
+  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" title="Pandas" **alt="Pandas" />
   <img src="https://upload.wikimedia.org/wikipedia/en/5/56/Matplotlib_logo.svg" title="Matplotlib"  alt="Matplotlib" width="80" height="80"/>
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" title="Seaborn" **alt="Seaborn" width="80" height="80"/>
-  <img src="https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" title="Scikit_Learn" **alt="Scikit_Learn" width="70" height="70"/>
+  <img src="https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" title="Scikit_Learn" **alt="Scikit_Learn"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" title="SQLite" **alt="SQLite" width="80" height="80"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white" title="Streamlit" **alt="Streamlit" width="80" height="80"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white" title="Streamlit" **alt="Streamlit" />
 </div>
 <div class="image-row">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="Visual_Studio" **alt="Visual_Studio" width="70" height="70"/>
