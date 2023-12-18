@@ -22,7 +22,7 @@
   <li> I find it fascinating to explore and showcase data visually. I enjoy analyzing large datasets, creating interactive dashboards, using visualization libraries and designing informative graphs and charts. </li>
   <li> I have a strong interest in the development of predictive models and algorithms. I enjoy exploring machine learning techniques such as supervised and unsupervised learning, deep learning, and reinforcement learning.</li>
   <li> I am looking forward to finding a new challenge in Data Analysis and Data Science that helps me grow as a professional. 📈</li>
-  <li> In my free time I enjoy running 🏃, hanging out with friends ☕, but also watching movies 🎬 and reading books 📖.</li>  
+  <li> In my free time I enjoy running 🏃, hanging out with friends ☕, watching movies 🎬 and reading books 📖.</li>  
 </ul>
 
 <h2>Projects ✨</h2>
