@@ -29,7 +29,7 @@
 <div>
   <ul>
     <li><a href="https://github.com/spomis1/Music_EDA">EDA - Spotify and Youtube Muisc Analytics</a></li>
-    <li><a href="https://github.com/spomis1/Housing-Price-Prediction">Machine Learning - Prediction models for Housing Price in Madrid </a></li>
+    <li><a href="https://github.com/spomis1/Housing-Price-Prediction">Machine Learning - House Price Prediction Madrid </a></li>
   </ul>
 </div>
 
@@ -37,7 +37,7 @@
 <h2>Contact me 📧 </h2>
 <div>
   <p>If you have any questions about my work or ideas for collaboration, please don't hesitate to reach out. I'm always open to new opportunities and happy to chat!</p> 
-<a href="mailto:sebastianpomi@gmail.com"><img src="https://img.shields.io/badge/Email-sebastianpomi%40gmail.com-brightgreen?style=for-the-badge"></a>
+<a href="mailto:sebastianpomi@gmail.com"><img src="https://img.shields.io/badge/Email-sebastianpomi%40gmail.com-green?style=for-the-badge"></a>
 </div>
 
 <h2> Skills and Tools :hammer_and_wrench:</h2>
