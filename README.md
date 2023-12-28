@@ -37,7 +37,7 @@
 <h2>Contact me 📧 </h2>
 <div>
   <p>If you have any questions about my work or ideas for collaboration, please don't hesitate to reach out. I'm always open to new opportunities and happy to chat!</p> 
-<a href="mailto:sebastianpomi@gmail.com"><img src="https://img.shields.io/badge/Email-sebastianpomi%40gmail.com-blue?style=for-the-badge"></a>
+<a href="mailto:sebastianpomi@gmail.com"><img src="https://img.shields.io/badge/Email-sebastianpomi%40gmail.com-D14836?style=for-the-badge"></a>
 </div>
 
 <h2> Skills and Tools :hammer_and_wrench:</h2>
