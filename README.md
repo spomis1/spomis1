@@ -50,7 +50,8 @@
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" title="SQLite" **alt="SQLite" />
   <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" title="Pyplot"  alt="Pyplot"/>
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" title="Matplotlib"  alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/SEABORN-07405E?style=for-the-badge&logo=seaborn&logoColor=white" title="Seaborn" **alt="Seaborn" />
+  <img src="https://img.shields.io/badge/SEABORN-07405E?style=for-the-badge&logo=seaborn&logoColor=white" title="Seaborn" **alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL" **alt="MySQL"/>
 </div>
 <div class="image-row">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="Visual_Studio" **alt="Visual_Studio"/>
