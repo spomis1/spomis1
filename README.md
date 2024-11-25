@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/spomis1?tab=repositories">
-    <img src="https://img.shields.io/badge/-Repositories-828091?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/RamonFCerezo?tab=repositories" alt="Ramón Fernández"/></a>
+    <img src="https://img.shields.io/badge/-Repositories-828091?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/RamonFCerezo?tab=repositories" alt="Repositorios"/></a>
 </div>
 <div id="badges">
   <img src="https://komarev.com/ghpvc/?username=spomis1&style=plastic&color=brightgreen" alt=""/>
