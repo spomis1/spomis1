@@ -18,9 +18,9 @@
 
 ## About me
 
-My name is **Sebastián Pomi** and I'm a Data Engineer with 2+ years of experience building process automations and data pipelines in the fintech industry. I started out in Data Science, but over time I fell in love with the engineering side: making things run reliably, automatically, and at scale.
+My name is **Sebastián Pomi** and I'm a Data Engineer with 2+ years of experience building data pipelines and process automations in the fintech industry. I started out in Data Science, but over time I fell in love with the engineering side: making things run reliably, automatically, and at scale.
 
-My work lives mostly in the Google ecosystem — BigQuery, AppScript, AppSheet, Looker — combined with Python ETL pipelines, n8n workflows, and increasingly AI-powered automations using Claude, MCP, and Cursor. I enjoy connecting systems that weren't designed to talk to each other.
+I work primarily with Python, BigQuery, and Google Cloud — designing ETL pipelines, building integrations between internal systems, and increasingly developing AI-powered automations using Claude, MCP, and Cursor. For reporting and internal tooling I use Looker, Power BI, and HTML/CSS. I enjoy connecting systems that weren't designed to talk to each other.
 
 📍 Buenos Aires, Argentina 🇦🇷 · 🌐 Spanish & English
 
@@ -59,6 +59,7 @@ Trigger (webhook / Slack)  →  Claude + MCP  →  Action (AppSheet / GCP)
 ![SQL](https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-1a73e8?style=for-the-badge&logo=googlecloud&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 **Automations & integrations**
 
@@ -74,6 +75,8 @@ Trigger (webhook / Slack)  →  Claude + MCP  →  Action (AppSheet / GCP)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **AI & LLM tooling**
 
