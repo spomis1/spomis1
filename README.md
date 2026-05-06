@@ -7,6 +7,9 @@
     <a href="https://github.com/spomis1?tab=repositories">
       <img src="https://img.shields.io/badge/-Repositories-828091?style=for-the-badge&logo=Github&logoColor=white" alt="Repositorios"/>
     </a>
+    <a href="https://spomis1.github.io">
+      <img src="https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"/>
+    </a>
   </div>
   <div id="badges">
     <img src="https://komarev.com/ghpvc/?username=spomis1&style=plastic&color=brightgreen" alt=""/>
@@ -92,6 +95,8 @@ Trigger (webhook / Slack)  →  Claude + MCP  →  Action (AppSheet / GCP)
 ---
 
 ## Public projects ✨
+
+- 🎵 [**SoundCad — Music Industry Intelligence**](https://github.com/spomis1/soundcad-music) — Web app that analyzes an artist's catalog using music data APIs: streaming stats, market positioning, and catalog insights. · [**Live demo →**](https://spomis1.github.io/soundcad-music) `Python` `FastAPI` `GitHub Pages` `Music APIs`
 
 - 📊 [**EDA — Spotify & YouTube Music Analytics**](https://github.com/spomis1/Music_EDA) — Exploratory data analysis combining data from both platforms to find patterns in music consumption. `Python` `Pandas` `EDA` `Visualization`
 
