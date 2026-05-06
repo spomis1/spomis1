@@ -2,17 +2,14 @@
   <img src="https://github.com/spomis1/spomis1/blob/main/hi_there_2.png" width="800"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/sebastianpomi/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://github.com/spomis1?tab=repositories">
-      <img src="https://img.shields.io/badge/-Repositories-828091?style=for-the-badge&logo=Github&logoColor=white" alt="Repositorios"/>
+      <img src="https://img.shields.io/badge/Repositories-333?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios"/>
     </a>
     <a href="https://spomis1.github.io">
-      <img src="https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"/>
+      <img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
     </a>
-  </div>
-  <div id="badges">
-    <img src="https://komarev.com/ghpvc/?username=spomis1&style=plastic&color=brightgreen" alt=""/>
   </div>
   <h2>Welcome to my profile! 👋</h2>
 </div>
@@ -96,11 +93,11 @@ Trigger (webhook / Slack)  →  Claude + MCP  →  Action (AppSheet / GCP)
 
 ## Public projects ✨
 
-- 🎵 [**SoundCad — Music Industry Intelligence**](https://github.com/spomis1/soundcad-music) — Web app that analyzes an artist's catalog using music data APIs: streaming stats, market positioning, and catalog insights. · [**Live demo →**](https://spomis1.github.io/soundcad-music) `Python` `FastAPI` `GitHub Pages` `Music APIs`
+- 🎵 [**SoundCad — Music Industry Intelligence**](https://github.com/spomis1/soundcad-music) — Web app that analyzes an artist's catalog using music data APIs: streaming stats, market positioning, and catalog insights. · [**Live app →**](https://spomis1.github.io/soundcad-music) `Python` `FastAPI` `GitHub Pages` `Music APIs`
 
-- 📊 [**EDA — Spotify & YouTube Music Analytics**](https://github.com/spomis1/Music_EDA) — Exploratory data analysis combining data from both platforms to find patterns in music consumption. `Python` `Pandas` `EDA` `Visualization`
+- 📊 [**EDA — Spotify & YouTube Music Analytics**](https://github.com/spomis1/Music_EDA) — Exploratory data analysis combining data from both platforms to find patterns in music consumption. · [**Dashboard →**](https://www.novypro.com/project/eda---spotify-and-youtube-muisc-analytics) `Python` `Pandas` `Power BI` `EDA`
 
-- 🏠 [**ML — House Price Prediction Madrid**](https://github.com/spomis1/Housing-Price-Prediction) — Supervised ML model to predict housing prices in Madrid using real estate data. `scikit-learn` `Regression` `Feature engineering`
+- 🏠 [**ML — House Price Prediction Madrid**](https://github.com/spomis1/Housing-Price-Prediction) — Supervised ML model to predict housing prices in Madrid using real estate data. · [**Live app →**](https://house-price-predictor-spomi.streamlit.app/) `scikit-learn` `XGBoost` `Streamlit` `Regression`
 
 > ⚠️ Most recent work involves production pipelines and fintech automations that cannot be open-sourced. More projects coming soon.
 
