@@ -8,7 +8,7 @@
       <img src="https://img.shields.io/badge/Repositories-333?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios"/>
     </a>
     <a href="https://spomis1.github.io">
-      <img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
+      <img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge" alt="Portfolio"/>
     </a>
   </div>
   <h2>Welcome to my profile! 👋</h2>
